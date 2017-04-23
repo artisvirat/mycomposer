@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "artisvirat": {
+    "title": "Virat Singh",
+    "website": "https://github.com/artisvirat",
+    "logo": "https://avatars1.githubusercontent.com/u/19516851?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/artisvirat",
           "versions": {
             "1.0.0": {
               "simple": {
